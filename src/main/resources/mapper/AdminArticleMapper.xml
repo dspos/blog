@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.yetao.blog.mapper.AdminUserMapper">
+<mapper namespace="com.yetao.blog.mapper.AdminArticleMapper">
     <!-- id:statement的id 或者叫做sql的id-->
     <!-- parameterType:声明输入参数的类型 -->
     <!-- resultType:声明输出结果的类型，应该填写pojo的全路径 -->
     <!-- #{}：输入参数的占位符，相当于jdbc的？ -->
-    <select id="login" resultType="com.yetao.blog.entity.Admin">
-        select * from tb_admin where username = #{username} and password = #{password}
-    </select>
 </mapper>

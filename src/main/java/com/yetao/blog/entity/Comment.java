@@ -1,4 +1,4 @@
-package com.yetao.blog.pojo;
+package com.yetao.blog.entity;
 
 import lombok.Data;
 

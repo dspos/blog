@@ -5,73 +5,71 @@ import io.jsonwebtoken.JwtBuilder;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
+import javax.crypto.SecretKey;
+import javax.crypto.spec.SecretKeySpec;
+import java.util.Base64;
 import java.util.Date;
-import java.util.Map;
 
 /**
- * @author YETAO
- * @Description jwt工具类
- * @date 2020/8/11 22:04
+ * @Author yetao
+ * @Date 2020/8/28 10:46
+ * @Description Jwt工具类
  */
 
 public class JwtUtil {
 
-    //盐值
-    public static String key = "yetao1";
-
-    public static long ttl = 60 * 60 * 2 * 1000;//2个小时
-
+    //设置有效期--两个小时
+    public static final Long JWT_TTL = 3600000L * 2;
+    //设置密匙明文
+    public static final String JWT_KEY = "yetao1";
 
     /**
-     * @param claims 载荷内容
-     * @param ttl    有效时长
+     * 创建token
+     * @param id
+     * @param subject
+     * @param ttlMillis
      * @return
      */
-    public static String createToken(Map<String, Object> claims, long ttl) {
-        JwtUtil.ttl = ttl;
-        return createToken(claims);
-    }
-
-
-    public static String createRefreshToken(String userId, long ttl) {
+    public static String createJWT(Long id, String subject, Long ttlMillis) {
+        SignatureAlgorithm signatureAlgorithm = SignatureAlgorithm.HS256;
         long nowMillis = System.currentTimeMillis();
         Date now = new Date(nowMillis);
-        JwtBuilder builder = Jwts.builder().setId(userId)
-                .setIssuedAt(now)
-                .signWith(SignatureAlgorithm.HS256, key);
-        if (ttl > 0) {
-            builder.setExpiration(new Date(nowMillis + ttl));
+        if (ttlMillis == null) {
+            ttlMillis = JwtUtil.JWT_TTL;
         }
-        return builder.compact();
+        long expMillis = nowMillis + ttlMillis;
+        Date expDate = new Date(expMillis);
+        SecretKey secretKey = generalKey();
+        JwtBuilder jwtBuilder = Jwts.builder()
+                .setId(id.toString())
+                .setSubject(subject)
+                .setIssuer("admin")
+                .setIssuedAt(now)
+                .signWith(signatureAlgorithm, secretKey)
+                .setExpiration(expDate);
+        return jwtBuilder.compact();
     }
 
     /**
-     * @param claims 载荷
-     * @return token
+     * 生成加密后的密钥secretKey
+     * @return
      */
-    public static String createToken(Map<String, Object> claims) {
-
-        long nowMillis = System.currentTimeMillis();
-        Date now = new Date(nowMillis);
-        JwtBuilder builder = Jwts.builder()
-                .setIssuedAt(now)
-                .signWith(SignatureAlgorithm.HS256, key);
-
-        if (claims != null) {
-            builder.setClaims(claims);
-        }
-
-        if (ttl > 0) {
-            builder.setExpiration(new Date(nowMillis + ttl));
-        }
-        return builder.compact();
+    public static SecretKey generalKey() {
+        byte[] encodedKey = Base64.getDecoder().decode(JwtUtil.JWT_KEY);
+        SecretKey secretKey = new SecretKeySpec(encodedKey, 0, encodedKey.length, "AES");
+        return secretKey;
     }
 
-    public static Claims parseJWT(String jwtStr) {
+    /**
+     * 解析jwt
+     * @param jwt
+     * @return
+     */
+    public static Claims parseJWT(String jwt) {
+        SecretKey secretKey = generalKey();
         return Jwts.parser()
-                .setSigningKey(key)
-                .parseClaimsJws(jwtStr)
+                .setSigningKey(secretKey)
+                .parseClaimsJws(jwt)
                 .getBody();
     }
-
 }

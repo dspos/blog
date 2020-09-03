@@ -1,0 +1,458 @@
+2020-09-03 09:50:52.103 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 8972 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 09:50:52.118 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 09:50:53.788 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:50:53.800 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 09:50:53.800 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 09:50:53.914 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 09:50:55.443 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:50:55.471 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 4.014 seconds (JVM running for 5.141)
+2020-09-03 09:51:21.254 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 09:51:21.386 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 09:51:21.509 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 09:51:52.228 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 11040 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 09:51:52.230 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 09:51:53.520 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:51:53.529 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 09:51:53.529 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 09:51:53.617 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 09:51:54.685 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:51:54.704 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.874 seconds (JVM running for 3.69)
+2020-09-03 09:51:58.466 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 09:51:58.579 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 09:51:58.674 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 09:53:49.586 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 17140 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 09:53:49.591 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 09:53:50.868 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:53:50.878 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 09:53:50.878 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 09:53:50.974 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 09:53:52.143 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:53:52.164 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.988 seconds (JVM running for 3.738)
+2020-09-03 09:54:01.441 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 09:54:01.571 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 09:54:01.677 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 09:58:49.832 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 17756 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 09:58:49.834 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 09:58:51.035 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:58:51.043 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 09:58:51.044 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 09:58:51.137 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 09:58:52.223 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 09:58:52.242 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.758 seconds (JVM running for 3.439)
+2020-09-03 09:58:55.520 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 09:58:55.629 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 28 ] - start update fill ....
+2020-09-03 09:58:55.636 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 09:58:55.738 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:05:13.979 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 13872 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:05:13.982 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:05:15.226 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:05:15.235 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:05:15.235 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:05:15.326 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:05:16.474 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:05:16.494 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.889 seconds (JVM running for 3.61)
+2020-09-03 10:05:19.734 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:05:19.849 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 28 ] - start update fill ....
+2020-09-03 10:05:19.857 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:05:19.969 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:06:18.830 [ Thread-10 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 350 ] - HikariPool-1 - Shutdown initiated...
+2020-09-03 10:06:18.838 [ Thread-10 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 352 ] - HikariPool-1 - Shutdown completed.
+2020-09-03 10:06:19.186 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 13872 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:06:19.187 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:06:19.644 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:06:19.644 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:06:19.645 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:06:19.716 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:06:20.120 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:06:20.124 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 0.968 seconds (JVM running for 67.241)
+2020-09-03 10:06:53.367 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 13872 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:06:53.368 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:06:53.763 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:06:53.763 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:06:53.764 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:06:53.795 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:06:54.184 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:06:54.187 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 0.857 seconds (JVM running for 101.305)
+2020-09-03 10:12:37.121 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 13872 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:12:37.122 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:12:37.489 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:12:37.490 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:12:37.490 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:12:37.516 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:12:37.896 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:12:37.900 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 0.824 seconds (JVM running for 445.017)
+2020-09-03 10:13:27.659 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 16300 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:13:27.661 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:13:28.932 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:13:28.941 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:13:28.941 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:13:29.035 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:13:30.134 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:13:30.153 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.861 seconds (JVM running for 3.589)
+2020-09-03 10:13:37.008 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:13:37.120 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 30 ] - start update fill ....
+2020-09-03 10:13:37.125 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:13:37.233 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:16:31.404 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 11564 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:16:31.407 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:16:32.770 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:16:32.779 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:16:32.779 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:16:32.870 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:16:34.056 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:16:34.088 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.058 seconds (JVM running for 3.749)
+2020-09-03 10:17:53.455 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:17:53.583 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:17:53.588 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:17:53.690 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:17:53.770 [ http-nio-8000-exec-1 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: Field 'status' doesn't have a default value
+### The error may exist in com/yetao/blog/mapper/AdminCategoryMapper.java (best guess)
+### The error may involve com.yetao.blog.mapper.AdminCategoryMapper.insert-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO tb_category  ( id, name, pinyin,    create_time )  VALUES  ( ?, ?, ?,    ? )
+### Cause: java.sql.SQLException: Field 'status' doesn't have a default value
+; Field 'status' doesn't have a default value; nested exception is java.sql.SQLException: Field 'status' doesn't have a default value] with root cause
+java.sql.SQLException: Field 'status' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy96.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:47)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.doUpdate(MybatisSimpleExecutor.java:56)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.update(MybatisCachingExecutor.java:85)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy71.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:271)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:60)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy$PlainMethodInvoker.invoke(MybatisMapperProxy.java:148)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy74.insert(Unknown Source)
+	at com.yetao.blog.service.impl.AdminCategoryServiceImpl.addCategory(AdminCategoryServiceImpl.java:29)
+	at com.yetao.blog.controller.AdminCategoryController.addCategory(AdminCategoryController.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:94)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-09-03 10:18:28.802 [ http-nio-8000-exec-2 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:38:20.286 [ http-nio-8000-exec-4 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:38:36.425 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 16764 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:38:36.428 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:38:37.670 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:38:37.679 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:38:37.679 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:38:37.769 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:38:38.872 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:38:38.891 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.84 seconds (JVM running for 4.022)
+2020-09-03 10:38:41.599 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:38:41.706 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:38:41.711 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:38:41.808 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:40:21.574 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 8492 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:40:21.576 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:40:22.847 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:40:22.856 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:40:22.857 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:40:22.958 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:40:24.060 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:40:24.080 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.901 seconds (JVM running for 3.623)
+2020-09-03 10:40:26.769 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:40:26.885 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:40:26.890 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:40:27.002 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 10:40:39.082 [ http-nio-8000-exec-4 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:45:12.162 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 17604 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 10:45:12.166 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 10:45:13.451 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:45:13.459 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 10:45:13.460 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 10:45:13.574 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 10:45:14.766 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 10:45:14.788 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.039 seconds (JVM running for 3.807)
+2020-09-03 10:45:24.334 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 10:45:24.440 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 10:45:24.445 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 10:45:24.544 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 11:17:22.140 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 9684 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 11:17:22.144 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 11:17:23.357 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:17:23.366 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 11:17:23.367 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 11:17:23.479 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 11:17:24.643 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:17:24.663 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.892 seconds (JVM running for 3.585)
+2020-09-03 11:17:30.799 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 11:18:54.986 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 6584 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 11:18:54.990 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 11:18:56.245 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:18:56.254 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 11:18:56.254 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 11:18:56.356 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 11:18:57.502 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:18:57.523 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.911 seconds (JVM running for 3.631)
+2020-09-03 11:19:02.367 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 11:19:16.578 [ http-nio-8000-exec-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 11:19:16.672 [ http-nio-8000-exec-2 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 11:21:32.091 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 15764 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 11:21:32.095 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 11:21:33.404 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:21:33.414 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 11:21:33.414 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 11:21:33.508 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 11:21:34.630 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 11:21:34.649 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.95 seconds (JVM running for 3.651)
+2020-09-03 11:21:40.309 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 11:21:40.422 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 11:21:40.426 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 11:21:40.524 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 11:22:23.471 [ http-nio-8000-exec-2 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 13:03:54.066 [ HikariPool-1 housekeeper ] - [ WARN  ] [ com.zaxxer.hikari.pool.HikariPool : 766 ] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m12s309ms771µs100ns).
+2020-09-03 13:06:09.636 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 16556 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 13:06:09.640 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 13:06:10.840 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:06:10.849 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 13:06:10.850 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 13:06:10.953 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 13:06:12.069 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:06:12.091 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.883 seconds (JVM running for 3.571)
+2020-09-03 13:06:16.803 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 13:06:16.920 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 28 ] - start update fill ....
+2020-09-03 13:06:16.924 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 13:06:17.048 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 13:06:59.148 [ http-nio-8000-exec-3 ] - [ ERROR ] [ o.a.c.c.C.[.[localhost].[/].[dispatcherServlet] : 175 ] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,status,create_time,update_time  FROM tb_category 
+ WHERE status='0'' at line 1
+### The error may exist in com/yetao/blog/mapper/AdminCategoryMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  id,name,pinyin,description,order,status,create_time,update_time  FROM tb_category   WHERE status='0'
+### Cause: java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,status,create_time,update_time  FROM tb_category 
+ WHERE status='0'' at line 1
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,status,create_time,update_time  FROM tb_category 
+ WHERE status='0'' at line 1] with root cause
+java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order,status,create_time,update_time  FROM tb_category 
+ WHERE status='0'' at line 1
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy97.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at com.baomidou.mybatisplus.core.executor.MybatisSimpleExecutor.doQuery(MybatisSimpleExecutor.java:69)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:165)
+	at com.baomidou.mybatisplus.core.executor.MybatisCachingExecutor.query(MybatisCachingExecutor.java:92)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:147)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	at com.sun.proxy.$Proxy72.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:223)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.executeForMany(MybatisMapperMethod.java:173)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:78)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy$PlainMethodInvoker.invoke(MybatisMapperProxy.java:148)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at com.sun.proxy.$Proxy73.selectList(Unknown Source)
+	at com.yetao.blog.service.impl.AdminCategoryServiceImpl.findCategoryAll(AdminCategoryServiceImpl.java:55)
+	at com.yetao.blog.controller.AdminCategoryController.findCategoryAll(AdminCategoryController.java:69)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:94)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2020-09-03 13:25:20.420 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 17428 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 13:25:20.422 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 13:25:21.841 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:25:21.851 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 13:25:21.851 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 13:25:21.956 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 13:25:23.240 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:25:23.260 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.231 seconds (JVM running for 3.953)
+2020-09-03 13:25:31.077 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 13:25:31.125 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 13:25:31.246 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 13:34:10.931 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 17176 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 13:34:10.933 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 13:34:12.234 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:34:12.245 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 13:34:12.246 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 13:34:12.369 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 13:34:13.523 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:34:13.543 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.985 seconds (JVM running for 3.692)
+2020-09-03 13:34:21.174 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 13:34:21.287 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 13:34:21.292 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 13:34:21.388 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 13:37:00.527 [ http-nio-8000-exec-3 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 28 ] - start update fill ....
+2020-09-03 13:37:13.420 [ http-nio-8000-exec-6 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 28 ] - start update fill ....
+2020-09-03 13:40:11.370 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 1948 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 13:40:11.373 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 13:40:12.620 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:40:12.628 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 13:40:12.629 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 13:40:12.731 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 13:40:13.868 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 13:40:13.887 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.89 seconds (JVM running for 3.557)
+2020-09-03 13:42:16.404 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 13:42:16.523 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 13:42:16.528 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 13:42:16.629 [ http-nio-8000-exec-1 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 15:30:02.386 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 11948 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 15:30:02.391 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 15:30:03.726 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 15:30:03.736 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 15:30:03.736 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 15:30:03.831 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 15:30:05.051 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 15:30:05.080 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.085 seconds (JVM running for 3.816)
+2020-09-03 15:30:20.308 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 15:45:54.991 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 6016 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 15:45:54.994 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 15:45:56.314 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 15:45:56.323 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 15:45:56.323 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 15:45:56.412 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 15:45:57.687 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 15:45:57.711 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.118 seconds (JVM running for 3.8)
+2020-09-03 15:46:01.959 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-03 15:46:38.090 [ http-nio-8000-exec-5 ] - [ INFO  ] [ com.yetao.blog.config.MyMetaObjectHandler : 22 ] - start insert fill ....
+2020-09-03 15:46:38.095 [ http-nio-8000-exec-5 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 110 ] - HikariPool-1 - Starting...
+2020-09-03 15:46:38.198 [ http-nio-8000-exec-5 ] - [ INFO  ] [ com.zaxxer.hikari.HikariDataSource : 123 ] - HikariPool-1 - Start completed.
+2020-09-03 16:07:16.638 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 2896 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-03 16:07:16.641 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-03 16:07:17.943 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-03 16:07:17.952 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-03 16:07:17.952 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-03 16:07:18.054 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-03 16:07:19.246 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-03 16:07:19.267 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 3.01 seconds (JVM running for 3.723)
+2020-09-03 16:07:33.779 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'

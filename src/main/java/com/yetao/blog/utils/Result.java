@@ -1,6 +1,11 @@
 package com.yetao.blog.utils;
 
 import lombok.Data;
+import org.springframework.validation.BindingResult;
+import org.springframework.validation.FieldError;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @author YETAO
@@ -9,26 +14,49 @@ import lombok.Data;
  */
 
 @Data
-public class Result<T> {
+public class Result {
 
+    private Integer status;
+    private String msg;
+    private Object data;
 
-    private Integer code;  //返回码
-    private String message;//返回消息
-    private T data;        //返回数据
-
-    public Result(Integer code, String message, Object data) {
-        this.code = code;
-        this.message = message;
-        this.data = (T)data;
+    private Result() {
     }
 
-    public Result(Integer code, String message) {
-        this.code = code;
-        this.message = message;
+    public static Result build() {
+        return new Result();
     }
 
-    public Result() {
-        this.code = StatusCode.OK;
-        this.message = "执行成功";
+    public static Result ok(String msg, Object data) {
+        return new Result(200, msg, data);
+    }
+
+    public static Result ok(String msg) {
+        return new Result(200, msg, null);
+    }
+
+    public static Result error(String msg, Object data) {
+        return new Result(500, msg, data);
+    }
+
+    public static Result error(String msg) {
+        return new Result(500, msg, null);
+    }
+
+    private Result(Integer status, String msg, Object data) {
+        this.status = status;
+        this.msg = msg;
+        this.data = data;
+    }
+
+    public static Result getResult(BindingResult bindingResult) {
+        if (bindingResult.hasErrors()) {
+            Map<String, String> map = new HashMap<>();
+            for (FieldError error : bindingResult.getFieldErrors()) {
+                map.put(error.getField(), error.getDefaultMessage());
+            }
+            return Result.error("新增失败", map);
+        }
+        return null;
     }
 }

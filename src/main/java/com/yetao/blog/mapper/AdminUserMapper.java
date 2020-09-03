@@ -1,49 +1,22 @@
 package com.yetao.blog.mapper;
 
-import com.yetao.blog.pojo.Admin;
+import com.yetao.blog.entity.Admin;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @author YETAO
- * @Description
- * @date 2020/7/31 16:52
+ * @Author yetao
+ * @Date 2020/8/27 17:18
+ * @Description 管理员mapper
  */
 
-public interface AdminUserMapper {
-
-
-    /**
-     * 查询表中是否有管理员信息
-     * @return
-     */
-    int getAdminCount();
+public interface AdminUserMapper extends BaseMapper<Admin> {
 
     /**
-     * 初始化账号
-     * @param admin
-     * @return
-     */
-    int initAdmin(Admin admin);
-
-
-    /**
-     * 获取管理员信息
-     * @param id
-     * @return
-     */
-    Admin getAdminById(Integer id);
-
-    /**
-     * 修改管理员信息
-     * @param admin
-     * @return
-     */
-    int updateAdmin(Admin admin);
-
-    /**
-     * 查询用户名密码
+     * 管理员登录
      * @param username
      * @param password
      * @return
      */
-    Admin checkUser(String username, String password);
+    Admin login(String username, String password);
+
 }

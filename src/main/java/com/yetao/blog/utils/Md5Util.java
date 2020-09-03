@@ -14,7 +14,7 @@ public class Md5Util {
     public static String md5(String buffer)
     {
         String string       = null;
-        char hexDigist[] = {'0','1','2','3','4','5','6','7','8','9','a','b','c','d','e','f'};
+        char[] hexDigist = {'0','1','2','3','4','5','6','7','8','9','a','b','c','d','e','f'};
         MessageDigest md;
         try {
             md = MessageDigest.getInstance("MD5");
@@ -36,10 +36,5 @@ public class Md5Util {
             e.printStackTrace();
         }
         return string;
-    }
-
-    public static void main(String[] args) {
-        //202cb962ac59075b964b07152d234b70
-        System.out.println(Md5Util.md5("123"));
     }
 }

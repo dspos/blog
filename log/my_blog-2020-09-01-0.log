@@ -1,0 +1,11 @@
+2020-09-01 18:20:09.733 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 50 ] - Starting BlogApplication on DESKTOP-774GIQL with PID 3872 (D:\Code\IdeaProjects\blog\target\classes started by yetao in D:\Code\IdeaProjects\blog)
+2020-09-01 18:20:09.744 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 648 ] - No active profile set, falling back to default profiles: default
+2020-09-01 18:20:11.039 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-8000"]
+2020-09-01 18:20:11.048 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2020-09-01 18:20:11.048 [ restartedMain ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-01 18:20:11.146 [ restartedMain ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring embedded WebApplicationContext
+2020-09-01 18:20:12.292 [ restartedMain ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-8000"]
+2020-09-01 18:20:12.313 [ restartedMain ] - [ INFO  ] [ com.yetao.blog.BlogApplication : 59 ] - Started BlogApplication in 2.983 seconds (JVM running for 3.767)
+2020-09-01 18:20:26.454 [ http-nio-8000-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 173 ] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-01 18:20:26.573 [ http-nio-8000-exec-1 ] - [ INFO  ] [ io.lettuce.core.EpollProvider : 68 ] - Starting without optional epoll library
+2020-09-01 18:20:26.574 [ http-nio-8000-exec-1 ] - [ INFO  ] [ io.lettuce.core.KqueueProvider : 70 ] - Starting without optional kqueue library

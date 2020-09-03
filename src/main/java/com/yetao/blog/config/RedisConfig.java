@@ -18,9 +18,9 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 import java.io.Serializable;
 
 /**
- * @author YETAO
- * @Description
- * @date 2020/8/7 16:30
+ * @Author yetao
+ * @Date 2020/9/2 17:34
+ * @Description Redis序列化配置类
  */
 
 @Configuration

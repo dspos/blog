@@ -1,15 +1,6 @@
 package com.yetao.blog;
 
-import com.yetao.blog.utils.ClaimsUtil;
-import com.yetao.blog.utils.JwtUtil;
-import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.JwtBuilder;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-
-import java.util.Calendar;
-import java.util.Date;
-import java.util.UUID;
+import com.baomidou.mybatisplus.core.toolkit.IdWorker;
 
 /**
  * @author YETAO
@@ -19,5 +10,8 @@ import java.util.UUID;
 
 public class TestToken {
     public static void main(String[] args) {
+        System.out.println(IdWorker.get32UUID());
+        System.out.println(IdWorker.getId());
+        System.out.println(IdWorker.getId());
     }
 }
